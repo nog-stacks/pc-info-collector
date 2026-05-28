@@ -6,7 +6,7 @@ Auxiliar técnicos de suporte a obter rapidamente o modelo da placa-mãe e vers�
 
 ## Como utilizar
 1. Abra o PowerShell como Administrador.
-2. Execute: `.\pc-info-collector.ps1`
+2. Execute: ` powershell -ExecutionPolicy Bypass -File .\pc-info-collector.ps1`
 
 ## Exemplo de Saída
 ```text
